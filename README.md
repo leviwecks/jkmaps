@@ -25,5 +25,5 @@ My ("Panic" or "Cydonis") maps for the Jedi Knight games.
 
 - mp/ctf_delaya
 
-**Flawless (sarcasm):**
+**Flawless (sarcasm)**
 - mp/ffa_piska
