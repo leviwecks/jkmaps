@@ -8,7 +8,7 @@ My ("Panic" or "Cydonis") maps for the Jedi Knight games.
 - mp/ctf_chazwa_final
 - mp/ctf_iskalon
 
-**In a goood state gameplay-wise, IMO. Community will likely disagree based on previous playtime**
+**In a good state gameplay-wise, IMO. Community will likely disagree based on previous playtime**
 
 - mp/ctf_bryndar
 - mp/ctf_erkit
