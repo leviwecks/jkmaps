@@ -19,7 +19,7 @@ This is purely based on layout, weapon placements, spawns, routes, etc. Some of 
 - mp/ctf_quanton
 - mp/ctf_radnor
 
-**Could possibly if not likely be playable/enjoyable with improvements (some improvements, even just aesthetically, would be desired):**
+**Could possibly--if not likely--be playable/enjoyable with improvements:**
 
 - mp/ctf_bryndar
 - mp/ctf_erkit
