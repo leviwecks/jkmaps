@@ -17,7 +17,6 @@ This is purely based on layout, weapon placements, spawns, routes, etc. Some of 
 - mp/ctf_molavar_pub - this one is unique because it was played MANY times on ja+ and actually quite fun, but I'm not sure it was ever pugged
 - mp/ctf_nsgf
 - mp/ctf_quanton
-- mp/ctf_radnor
 
 **Could possibly--if not likely--be playable/enjoyable with improvements:**
 
@@ -28,6 +27,7 @@ This is purely based on layout, weapon placements, spawns, routes, etc. Some of 
 - mp/ctf_iskalon
 - mp/ctf_jodaka
 - mp/ctf_lazerian
+- mp/ctf_radnor
 
 **Probably don't bother:**
 
